@@ -65,7 +65,7 @@ When you have finished your homework and wish to hand it in, do so via a **pull 
 
 3. Click the button [**New pull request**].
 
-4. Select the HackYourFuture repository master branch on the left side and your repository and homework branch on the right side.
+4. Select the LiveCoding repository master branch on the left side and your repository and homework branch on the right side.
 
 5. Press the green [**Create pull request**] button to continue.
 
