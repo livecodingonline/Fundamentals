@@ -1,6 +1,6 @@
 # Handing in homework
 
-Starting with  the JavaScript2 module we expect you to hand in homework by using the GitHub [Forking Workflow](https://github.com/HackYourFuture/Git/blob/master/Lecture-3.md). This involves the following steps:
+Starting with  the JavaScript2 module we expect you to hand in homework by using the GitHub [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). This involves the following steps:
 
 ## Forking 
 
